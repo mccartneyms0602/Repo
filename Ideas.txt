@@ -1,0 +1,30 @@
+Shell Script Ideas
+
+youtube-dl scripting
+
+ffmpeg scripting
+
+Automate archiving with Internet Archive
+
+Something with Cron?
+
+Something with RSS?
+
+Integration with termux-tools
+
+Figure out how to easily and reliably send files to and fro termux (ftp?)
+Calendar
+SSH Commands
+Camera things (ffmpeg?)
+
+Graphical Environments
+
+emulator in terminal
+https://stackoverflow.com/questions/25396784/how-to-record-a-specific-window-using-ffmpeg
+ 
+Input > Emulator > FFMPEG > libcaca > Terminal > Output
+libcaca 
+SSH
+
+Automatically fetch and download images (Cron)
+https://stackoverflow.com/questions/4602153/how-do-i-use-wget-to-download-all-images-into-a-single-folder-from-a-url
