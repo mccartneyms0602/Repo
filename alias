@@ -9,10 +9,3 @@ alias aptu="sudo apt update"
 # Update with Generic names
 alias pkgdu="sudo dnf update"
 alias pkgau="sudo apt update"
-
-#git alias
-alias clonemyshgit="CNTX={mccartneym7964|}; NAME={mccartneym7964|mccartney7964}; PAGE=1
-curl "https://api.github.com/$CNTX/$NAME/repos?page=$PAGE&per_page=100" |
-  grep -e 'git_url*' |
-  cut -d \" -f 4 |
-  xargs -L1 git clone
