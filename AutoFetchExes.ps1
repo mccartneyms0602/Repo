@@ -8,3 +8,4 @@ wget "https://download.documentfoundation.org/libreoffice/stable/7.3.6/win/x86_6
 wget "https://ftp.osuosl.org/pub/videolan/vlc/3.0.17.4/win64/vlc-3.0.17.4-win64.exe" # VLC
 wget "https://redirector.gvt1.com/edgedl/android/studio/install/2021.3.1.16/android-studio-2021.3.1.16-windows.exe" # Android Studio
 wget "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe" # Steam
+wget "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.4.5_x64_setup.exe" # qbittorrent
