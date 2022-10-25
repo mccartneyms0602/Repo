@@ -1,15 +1,9 @@
-https://f-droid.org/F-Droid.apk
 https://github.com/tachiyomiorg/tachiyomi/releases/download/v0.13.6/tachiyomi-arm64-v8a-v0.13.6.apk
-https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 https://github.com/florisboard/florisboard/releases/download/v0.3.16/florisboard-0.3.16-release.apk
-https://f-droid.org/repo/me.ccrama.redditslide_337.apk
-https://github.com/TeamNewPipe/NewPipe/releases/download/v0.24.0/NewPipe_v0.24.0.apk
 https://f-droid.org/repo/net.osmand.plus_4207.apk
 https://f-droid.org/repo/fr.neamar.kiss_196.apk
-https://f-droid.org/repo/org.billthefarmer.editor_174.apk
 https://github.com/markusfisch/BinaryEye/releases/download/1.52.0/app-release.apk
 https://f-droid.org/repo/net.sourceforge.opencamera_85.apk
-https://f-droid.org/repo/app.organicmaps_22092203.apk
 https://f-droid.org/repo/me.hackerchick.catima_114.apk
 https://f-droid.org/repo/org.kaqui_78.apk
 https://f-droid.org/repo/dev.obfusk.jiten_1010100002.apk
@@ -18,8 +12,6 @@ https://f-droid.org/repo/nl.viter.glider_38.apk
 https://f-droid.org/repo/is.xyz.mpv_29.apk
 https://f-droid.org/repo/com.foobnix.pro.pdf.reader_4814.apk
 https://f-droid.org/repo/com.physphil.android.unitconverterultimate_50702.apk
-https://f-droid.org/repo/org.catrobat.paintroid_48.apk
-https://f-droid.org/repo/com.swordfish.lemuroid_181.apk
 https://f-droid.org/repo/com.simplemobiletools.gallery.pro_376.apk
 https://f-droid.org/repo/com.simplemobiletools.filemanager.pro_125.apk
 https://f-droid.org/repo/com.simplemobiletools.notes.pro_98.apk
