@@ -1,5 +1,1 @@
-sudo dnf group install "Fedora Custom Operating System" "Minimal Install" "Fedora Server Edition" "Fedora Cloud Server" "KDE Plasma Workspaces" "Xfce Desktop" "LXDE Desktop" "LXQt Desktop" "Cinnamon Desktop" "MATE Desktop" \
-"Sugar Desktop Environment" "Deepin Desktop" "Development and Creative Workstation" "Web Server" "Infrastructure Server" "Basic Desktop" "i3 desktop" "Fedora Workstation" "3D Printing" "Administration Tools" "Audio Production" \
-"Authoring and Publishing" "C Development Tools and Libraries" "Cloud Infrastructure" "Cloud Management Tools" "Compiz" "Container Management" "D Development Tools and Libraries" "Design Suite" "Development Tools" "Domain Membership" \
-"Editors" "Educational Software" "Electronic Lab" "Engineering and Scientific" "FreeIPA Server" "Games and Entertainment" "Headless Management" "MATE Applications" "Milkymist" "Network Servers" "Neuron Modelling Simulators" \
-"Office/Productivity" "Pantheon Desktop" "Python Classroom" "Python Science" "Robotics" "RPM Development Tools" "Security Lab" "Sound and Video" "System Tools" "Text-based Internet" "Window Managers"
+sudo dnf group install "*"
