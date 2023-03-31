@@ -1,7 +1,7 @@
 pkg update
 
 #Install Packages
-pkg install cronie termux-tools termux-services fish zsh git openssh nano busybox ffmpeg ranger nnn rsync curl wget 
+pkg install cronie termux-tools termux-services fish git openssh nano busybox ffmpeg ranger nnn rsync curl wget 
 
 #Install ability to build apks
 curl -O https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash
@@ -10,4 +10,4 @@ curl -O https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.build
       
       
 pkg upgrade
-chsh zsh
+chsh fish
